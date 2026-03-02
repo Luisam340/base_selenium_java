@@ -1,1 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?><testsuite errors="0" failures="0" name="Login SauceDemo" skipped="1" tests="1" time="0.19" timestamp="2026-03-02 09:41:49"><testcase name="Login exitoso"><skipped/></testcase></testsuite>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><testsuite errors="1" failures="0" name="Login SauceDemo" skipped="0" tests="1" time="30.6" timestamp="2026-03-02 10:00:28"><testcase name="Login exitoso"><error message="Could not instantiate class org.openqa.selenium.edge.EdgeDriver" type="net.thucydides.core.webdriver.DriverConfigurationError">Could not instantiate class org.openqa.selenium.edge.EdgeDriver</error><system-err>Could not instantiate class org.openqa.selenium.edge.EdgeDriver&#13;
+stepdefinitions.LoginStepDefinition.openLoginPage(LoginStepDefinition.java:27)&#13;
+worker.org.gradle.process.internal.worker.GradleWorkerMain.run(GradleWorkerMain.java:69)&#13;
+worker.org.gradle.process.internal.worker.GradleWorkerMain.main(GradleWorkerMain.java:74)&#13;
+</system-err></testcase></testsuite>
